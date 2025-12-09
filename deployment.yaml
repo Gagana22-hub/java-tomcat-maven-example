@@ -19,6 +19,6 @@ spec:
     spec:
       containers:
       - name: mavenapp
-        image: gaganahs/mavenapp:latest
+        image: gaganahs/repomaven:latest
         ports:
         - containerPort: 8080
